@@ -1,1 +1,1 @@
-# FireFighters- NASA Space Apps Projects
+# FireFighters- NASA Space Apps Project
